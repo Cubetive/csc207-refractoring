@@ -1,3 +1,5 @@
+a9684ae Task 2.2
+5be8869 Update Log 2.1
 a9abe4c Task 2.1
 c5c4585 Task 1.2
 63c1f19 Task 1.1
